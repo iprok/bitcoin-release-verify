@@ -1,0 +1,1 @@
+Script based on https://github.com/bitcoin-core/bitcoincore.org/issues/793#issuecomment-923466177 , but without key update and showing all good signatures instead of just number of them to let user decide whether to trust.
